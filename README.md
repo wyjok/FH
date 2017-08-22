@@ -5,8 +5,8 @@ Feralhosting可用。
 
 cd ~  
 git clone https://github.com/wyjok/FH.git  
-  
-设置链接库搜索路径  
+  
+设置链接库搜索路径  
 export LD_LIBRARY_PATH=~/FH/link  
 export PATH=~/FH/link:$PATH  
   

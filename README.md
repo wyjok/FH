@@ -21,7 +21,7 @@ nano ~/.bachrc
 export LD_LIBRARY_PATH=~/FH/link  
 export PATH=~/FH/link:$PATH  
 ```   
-ctrl+o 回车 保存 ctrl+x 退出  
+```ctrl+o``` ```回车``` 保存 ```ctrl+x``` 退出  
 ```
 source ~./bashrc  
 ```
@@ -32,9 +32,9 @@ source ~./bashrc
 ```
 qbittorrent-nox  
 ```
-输入 y 同意免责条款  
+输入``` y```同意免责条款  
 
-ctrl+c 退出  
+```ctrl+c```退出  
 
 后台运行  
 ```     

@@ -10,7 +10,7 @@ git clone https://github.com/wyjok/FH.git
 ```
 机子上没有git还第二种方法：
 ```
-cd ~  
+cd ~
 wget https://raw.githubusercontent.com/wyjok/FH/master/FH.tar.gz
 tar -zxvf FH.tar.gz
 ```  

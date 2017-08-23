@@ -13,7 +13,7 @@ git clone https://github.com/wyjok/FH.git
 cd ~  
 wget https://raw.githubusercontent.com/wyjok/FH/master/FH.tar.gz
 tar -zxvf FH.tar.gz  
-
+```
 
 直接下载压缩包并解压，压缩包不一定更新，然而也不太可能更新  
 2.  

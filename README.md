@@ -43,7 +43,9 @@ source ~./bashrc
 运行一遍  
 ```
 qbittorrent-nox  
+
 ```
+
 输入``` y```同意免责条款  
 
 ```ctrl+c```退出  

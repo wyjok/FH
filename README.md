@@ -1,12 +1,20 @@
 在home下 安装qbittorrent-nox3.3.11  
 适用于debian8.8 amd64  
 Feralhosting可用。  
-使用方法：  
+使用方法：  
+1.  
+下载文件git  
 ```
 cd ~  
 git clone https://github.com/wyjok/FH.git  
 ```
-设置链接库搜索路径  
+机子上没有git还第二种方法：
+```
+wget https://raw.githubusercontent.com/wyjok/FH/master/FH.tar.gz
+tar -zxvf FH.tar.gz
+```
+2.  
+设置链接库搜索路径  
 ```
 export LD_LIBRARY_PATH=~/FH/link  
 export PATH=~/FH/link:$PATH  
@@ -27,6 +35,7 @@ source ~./bashrc
 ```
   
   
+3.  
 接下来：  
 运行一遍  
 ```
@@ -35,7 +44,7 @@ qbittorrent-nox  
 输入``` y```同意免责条款  
 
 ```ctrl+c```退出  
-
+4.  
 后台运行  
 ```     
 nohup qbittorrent-nox &  

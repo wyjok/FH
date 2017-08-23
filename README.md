@@ -10,13 +10,16 @@ git clone https://github.com/wyjok/FH.git
 ```
 机子上没有git还第二种方法：
 ```
-cd ~
+cd ~  
 wget https://raw.githubusercontent.com/wyjok/FH/master/FH.tar.gz
-tar -zxvf FH.tar.gz
+tar -zxvf FH.tar.gz  
+
 ```  
+
 直接下载压缩包并解压，压缩包不一定更新，然而也不太可能更新  
 2.  
 设置链接库搜索路径  
+
 ```
 export LD_LIBRARY_PATH=~/FH/link  
 export PATH=~/FH/link:$PATH  

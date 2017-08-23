@@ -1,7 +1,7 @@
 在home下 安装qbittorrent-nox3.3.11  
 适用于debian8.8 amd64  
 Feralhosting可用。  
-使用方法：  
+使用方法:  
 1.  
 下载文件git  
 ```

@@ -12,7 +12,7 @@ git clone https://github.com/wyjok/FH.git
 ```
 wget https://raw.githubusercontent.com/wyjok/FH/master/FH.tar.gz
 tar -zxvf FH.tar.gz
-```
+```  
 2.  
 设置链接库搜索路径  
 ```
@@ -32,9 +32,7 @@ export PATH=~/FH/link:$PATH
 ```ctrl+o``` ```回车``` 保存 ```ctrl+x``` 退出  
 ```
 source ~./bashrc  
-```
-  
-  
+```  
 3.  
 接下来：  
 运行一遍  

@@ -59,3 +59,4 @@ qbittorrent-nox  
 ```     
 nohup qbittorrent-nox --webui-port=8080 &  
 ```
+```回车```

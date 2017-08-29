@@ -57,5 +57,5 @@ qbittorrent-nox  
 
 后台运行  
 ```     
-nohup qbittorrent-nox &  
+nohup qbittorrent-nox --webui-port=8080 &  
 ```

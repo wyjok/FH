@@ -32,7 +32,7 @@ nano ~/.bashrc
 把这两行加进去  
 ```
 export LD_LIBRARY_PATH=~/FH/link  
-export PATH=~/FH/link:$PATH  
+export PATH=~/FH:$PATH  
 ```   
 ```ctrl+o``` ```回车``` 保存 ```ctrl+x``` 退出  
 

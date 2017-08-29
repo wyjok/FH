@@ -22,7 +22,7 @@ tar -zxvf FH.tar.gz
 
 ```
 export LD_LIBRARY_PATH=~/FH/link  
-export PATH=~/FH/link:$PATH  
+export PATH=~/FH:$PATH  
 ```
   
 或者如果不想每次连接ssh重新设置可以将上两行代码写入配置里，每次登录自动加载  

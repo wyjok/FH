@@ -56,7 +56,13 @@ qbittorrent-nox  
 4.  
 
 后台运行  
+tips:如果使用共享ip服务器8080可能被占用，如果ip:8080打不开webui请更换8080为其他小于65535的数字。  
+
+
 ```     
 nohup qbittorrent-nox --webui-port=8080 &  
 ```
 ```回车```
+
+
+

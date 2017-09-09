@@ -37,7 +37,7 @@ export PATH=~/FH:$PATH
 ```ctrl+o``` ```回车``` 保存 ```ctrl+x``` 退出  
 
 ```
-source ~./bashrc  
+source ~/.bashrc  
 ```
 
 注意如果本来有设置其他路径的话，请自行修改相关内容，即.bashr内本来就有内容的话请自行修改。  

@@ -16,7 +16,12 @@ tips:如果使用共享ip服务器8080可能被占用，如果ip:8080打不开we
 nohup qbittorrent-nox --webui-port=8080 &  
 ```
 ```回车```
-
+  
+  
+  
+  
+  
+  
 
 非脚本安装使用方法:  
 1.  

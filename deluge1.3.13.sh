@@ -7,5 +7,6 @@ export PYTHONPATH=~/mydeluge/lib/python2.7/site-packages/
 python setup.py install  --prefix=~/mydeluge
 echo "export PATH=~/mydeluge:$PATH" >> ~/.bashrc
 source ~/.bashrc
+echo "*****************************finished***********************************************"
 echo "use following Command to run deluge and add an new daemon connection with non-default port:"
 echo "deluge-web --fork --config ~/CONFIGPATH --port PORTNUMBER(you need to change the CONFIGPATH & PORTNUMBER)"
